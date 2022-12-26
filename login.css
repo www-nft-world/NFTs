@@ -7,7 +7,7 @@
 }
 
 .container {
-    background-image: url('log/bicrypto-bg.png');
+    background-image: url('./log/bicrypto-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
